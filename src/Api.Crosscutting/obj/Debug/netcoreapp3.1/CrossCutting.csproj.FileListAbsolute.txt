@@ -1,0 +1,9 @@
+E:\C#\curso_api_netCore\src\Api.Crosscutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+E:\C#\curso_api_netCore\src\Api.Crosscutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+E:\C#\curso_api_netCore\src\Api.Crosscutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+E:\C#\curso_api_netCore\src\Api.Crosscutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+E:\C#\curso_api_netCore\src\Api.Crosscutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+E:\C#\curso_api_netCore\src\Api.Crosscutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+E:\C#\curso_api_netCore\src\Api.Crosscutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+E:\C#\curso_api_netCore\src\Api.Crosscutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+E:\C#\curso_api_netCore\src\Api.Crosscutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
