@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0IFKX3qpWEf6LjoafgzEHL3dVGMWVgDj/k+z1cldyp8Jr4IxKs0RoPrLyKvJDsRyTaYn/Gpn5KI1BrgpnYuctw==",
+  "dgSpecHash": "8YmldxHwgHqLg1mooiIKquSGU0h7uy+dkbm4K+MDGeRtsxSKRY8cbT8HaEr54H/RhCZnmG/7qDDv7K9fZtNLGw==",
   "success": true,
-  "projectFilePath": "E:\\C#\\curso_api_netCore\\src\\api.Data\\Data.csproj",
+  "projectFilePath": "E:\\C#\\curso_api_netCore\\src\\Api.Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KAIO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\KAIO\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
