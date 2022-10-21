@@ -28,10 +28,9 @@ namespace Api.Data.Repository
         {
            try{
               if(item.id == Guid.Empty){
-
-                item.id = Guid.NewGuid();
+                 item.id = Guid.NewGuid();
               }
-              item.CreatAt = DateTime.UtcNow;
+              item.CreateAt = DateTime.UtcNow;
               _dataset.Add(item);
            } catch (Exception ex)
            {
